@@ -1,0 +1,29 @@
+body{
+  /* Portátil 
+  position: relative;
+  width: 100%;
+  height: 100%;
+
+  background: #FFFFFF;*/
+  
+}
+
+
+.links{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: x-large;
+}
+
+.link{
+  width: 100%;
+  text-align: center;
+  color: #676767;
+}
+
+.link:hover{
+  color: blue;
+}
+
